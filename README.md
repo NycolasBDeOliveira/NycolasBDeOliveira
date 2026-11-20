@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Nycolas
 
-<!--
-**NycolasBDeOliveira/NycolasBDeOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Beginner in JavaScript Programming**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/NycolasBDeOliveira">
+    <img src="https://img.shields.io/badge/GitHub-NycolasBDeOliveira-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/onycolxs_">
+    <img src="https://img.shields.io/badge/Instagram-@onycolxs_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+### DevOps & Tools
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NycolasBDeOliveira&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycolasBDeOliveira&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Philosophy
+
+> _"Programming is a headache
+>  until you fix your own bug."_
+
+---
